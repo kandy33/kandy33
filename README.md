@@ -1,4 +1,4 @@
-### Hi there 👋
+### A JORNEY started, 👋
 
 <!--
 **kandy33/kandy33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
